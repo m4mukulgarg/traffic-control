@@ -25,7 +25,7 @@ Observing these situations in the National Capital Territory itself, we decided 
 ## SOCIO-ECONOMIC BACKGROUND
 According to the Economic Survey of Delhi, 2015 “The total number of motor vehicles on road in NCT of Delhi as on 31st March, 2015 was 88.27 lakh, showing an increase of 6.4 per cent over previous year. The category wise number of motor vehicles in Delhi is presented in Statement 12.1”
 ![Table: Vehicle Population](/static/vehicle-pop.JPG)
-“The annual growth of vehicles in Delhi increased from 4.72 per cent in 1999-2000 to 6.89 per cent in 2014-15. During the same period the number of vehicles per thousand population increased considerably; from 253 to 487.”
+  “The annual growth of vehicles in Delhi increased from 4.72 per cent in 1999-2000 to 6.89 per cent in 2014-15. During the same period the number of vehicles per thousand population increased considerably; from 253 to 487.”
 ![Table: Vehicle Growth](/static/vehicle-pop.JPG)
 
 
